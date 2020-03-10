@@ -1,0 +1,5 @@
+﻿  InGameState.cpp
+  PlayerManager.cpp
+d:\university\object oriented system development\card-g\card-g\playermanager.cpp(4): error C2512: 'Player': no appropriate default constructor available
+  d:\university\object oriented system development\card-g\card-g\player.h(3): note: see declaration of 'Player'
+  Generating Code...
